@@ -1,4 +1,4 @@
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/msanwar/)
 
 
 ### Hi there 👋
@@ -8,7 +8,7 @@ I am Mohammad Shanawaz Anwar, I am intrested in Machine Learning, Deep Learning,
 
 
 
-* I am curently working on a Deep Learning project.
+* :grinning: I am curently working on a Deep Learning project.
 
 * I am currently enrolled in a Deep Learning course at Devincept.
 
