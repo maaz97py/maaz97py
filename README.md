@@ -1,16 +1,19 @@
+[![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]](https://www.linkedin.com/in/msanwar/)
+
+
 ### Hi there 👋
 
-<!--
-**maaz97py/maaz97py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Mohammad Shanawaz Anwar, I am intrested in Machine Learning, Deep Learning, NLP and Analytics. I like to work on new projects so as to enhance my practical knowledge.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+* I am curently working on a Deep Learning project.
+
+* I am currently enrolled in a Deep Learning course at Devincept.
+
+* I am looking for Job opportunities in ML,DL and Data Analytics.
+
+* I am trying to learn Computer vision and work on a real project.
+
+* You can reach me on mshzanwar@gmail.com .
