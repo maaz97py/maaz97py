@@ -1,16 +1,18 @@
 
 ### Hi there 👋
 
-I am Mohammad Shanawaz Anwar, I am intrested in Machine Learning, Deep Learning, NLP and Data Analytics. I like to work on new projects so as to enhance my practical knowledge.
+I am Mohammad Shanawaz Anwar, I am intrested in Machine Learning, Deep Learning, NLP and Data Analytics. I like working with data.
 
 
 * :grinning: I am curently working on a Deep Learning project.
+
+* :grinning: I have worked on many Machine Learning projects.
 
 * :grinning: I am currently enrolled in a Deep Learning course at Devincept.
 
 * :grinning: I am looking for Job opportunities in ML,DL and Data Analytics.
 
-* :grinning: I am trying to learn Computer vision and work on a real project.
+* :grinning: I am learning computer vision.
 
 
 ## Reach me at:
