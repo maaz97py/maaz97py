@@ -17,4 +17,4 @@ I am Mohammad Shanawaz Anwar, I am intrested in Machine Learning, Deep Learning,
 
 * [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/msanwar/)
 
-* [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mshzanwar@gmail.com)
+* mshzanwar@gmail.com
