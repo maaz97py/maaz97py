@@ -8,11 +8,11 @@ I am Mohammad Shanawaz Anwar, I am intrested in Machine Learning, Deep Learning,
 
 * :grinning: I have worked on many Machine Learning projects.
 
-* :grinning: I am currently enrolled in a Deep Learning course at Devincept.
+* :grinning: I have worked extensively with power BI.
 
 * :grinning: I am looking for Job opportunities in ML,DL and Data Analytics.
 
-* :grinning: I am learning computer vision.
+* :grinning: Looking for greener pastures.
 
 
 ## Reach me at:
