@@ -1,18 +1,10 @@
 
 ### Hi there 👋
 
-I am Mohammad Shanawaz Anwar, I am intrested in Machine Learning, Deep Learning, NLP and Data Analytics. I like working with data.
+I am Mohammad Shanawaz Anwar, I am a Machine Learning Engineer currently working at SmartBridge, I have been working in this role for the past 8  months.In my role I deal with machine learning, artificial intelligence and data analytics. I have worked on BI tools such as Tableau and IBM cognos.
 
 
-* :grinning: I am curently working on a Deep Learning project.
 
-* :grinning: I have worked on many Machine Learning projects.
-
-* :grinning: I have worked extensively with power BI.
-
-* :grinning: I am looking for Job opportunities in ML,DL and Data Analytics.
-
-* :grinning: Looking for greener pastures.
 
 
 ## Reach me at:
