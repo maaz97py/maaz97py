@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I am Mohammad Shanawaz Anwar, I am a Machine Learning Engineer currently working at SmartBridge, In my role I deal with machine learning, artificial intelligence and data analytics. I have worked on BI tools such as Tableau and IBM cognos.
+I am Mohammad Shanawaz Anwar, I am a Machine Learning Engineer currently working at SmartBridge, In my role I deal with machine learning, artificial intelligence and data analytics. 
 
 
 
